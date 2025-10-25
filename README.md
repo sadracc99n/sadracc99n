@@ -4,7 +4,7 @@
 ### not a dev
 ### just like working on random passion projects 🇩🇪 🏳️‍🌈
 
-<h3 align="left">Connect with me :3</h3>
+<h3 align="left">text me on dc :3</h3>
 <p align="left">
 <a href="https://discord.com/users/431787243599036416" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/users/431787243599036416" height="30" width="40" /></a>
 </p>
