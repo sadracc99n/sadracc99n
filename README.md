@@ -1,14 +1,15 @@
 # Hi, I'm MJ
 
 ### 19y/o 
-### not a dev, just like working on random passion projects 
-### 🇩🇪 🏳️‍🌈
+### not a dev
+### just like working on random passion projects 🇩🇪 🏳️‍🌈
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me :3 :</h3>
 <p align="left">
-<a href="https://github.com/sadracc99n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="sadracc99n" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.com/users/431787243599036416" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/users/431787243599036416" height="30" width="40" /></a>
 </p>
+
+
 
 
 
